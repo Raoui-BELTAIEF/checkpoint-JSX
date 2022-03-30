@@ -1,0 +1,14 @@
+.title.red{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: burlywood;
+  background-color: green;
+  text-align: center;
+}
+.tree {
+ width: 250px;
+ height: 250px;
+}
+.river {
+  width: 500px;
+  height: 500px;
+}
